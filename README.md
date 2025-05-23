@@ -1,5 +1,16 @@
 ## Setup and Running the Application
 
+### Clone the Repository
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AnkitKumar-1703/PanScience-Assignment
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd PanScience-Assignment
+   ```
+
 ### Frontend Setup
 
 1. Navigate to the frontend directory:
