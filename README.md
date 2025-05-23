@@ -4,7 +4,7 @@
 
 1. Navigate to the frontend directory:
    ```bash
-   cd taskmanagement-frontend
+   cd frontend
    ```
 2. Install all dependencies:
    ```bash
@@ -18,7 +18,7 @@
 
 1. Navigate to the backend directory:
    ```bash
-   cd taskmanagement-backend
+   cd backend
    ```
 2. Install all dependencies:
    ```bash
